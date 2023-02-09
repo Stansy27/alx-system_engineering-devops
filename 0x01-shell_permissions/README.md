@@ -1,1 +1,1 @@
-su betty
+id -u -n
